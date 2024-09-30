@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/common-intellisense/view-ui-plus1#readme",
+  "homepage": "https://github.com/common-intellisense/view-ui-plus#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/common-intellisense/view-ui-plus1.git"
+    "url": "git+https://github.com/common-intellisense/view-ui-plus.git"
   },
-  "bugs": "https://github.com/common-intellisense/view-ui-plus1/issues",
+  "bugs": "https://github.com/common-intellisense/view-ui-plus/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
